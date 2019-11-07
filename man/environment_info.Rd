@@ -15,6 +15,4 @@ This function prints current environment information, and a message.
 \examples{
 environment_info("This is an important message from your sponsor.")
 }
-\keyword{debugging,}
-\keyword{description}
-\keyword{session,}
+\keyword{debugging}
